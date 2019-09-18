@@ -1,0 +1,48 @@
+.elementor-widget-heading.elementor-widget-heading .elementor-heading-title {color: #16aa4b;}
+.elementor-widget-heading .elementor-heading-title {font-family: "Lato",Sans-serif;font-weight: bold;}
+.elementor-widget-image .widget-image-caption {color: #3a3b37;font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-text-editor {color: #3a3b37;font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {background-color: #16aa4b;}
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {color: #16aa4b;border-color: #16aa4b;}
+.elementor-widget-button a.elementor-button, .elementor-widget-button .elementor-button {font-family: "Lato",Sans-serif;font-weight: 500;background-color: #0b562b;}
+.elementor-widget-divider {--divider-border-color: #141614;}
+.elementor-widget-divider .elementor-divider__text {color: #141614;font-family: "Lato",Sans-serif;font-weight: 400;}
+.elementor-widget-divider.elementor-view-stacked .elementor-icon {background-color: #141614;}
+.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon {color: #141614;border-color: #141614;}
+.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg {fill: #141614;}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title {color: #16aa4b;font-family: "Lato",Sans-serif;font-weight: bold;}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-description {color: #3a3b37;font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-icon.elementor-view-stacked .elementor-icon {background-color: #16aa4b;}
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon {color: #16aa4b;border-color: #16aa4b;}
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg {fill: #16aa4b;}
+.elementor-widget-icon-box.elementor-view-stacked .elementor-icon {background-color: #16aa4b;}
+.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon {fill: #16aa4b;color: #16aa4b;border-color: #16aa4b;}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {color: #16aa4b;font-family: "Lato",Sans-serif;font-weight: bold;}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description {color: #3a3b37;font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-star-rating .elementor-star-rating__title {color: #3a3b37;font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-image-carousel .elementor-image-carousel-caption {font-family: "Lato",Sans-serif;font-weight: 500;}
+.elementor-widget-image-gallery .gallery-item .gallery-caption {font-family: "Lato",Sans-serif;font-weight: 500;}
+.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after {border-color: #3a3b37;}
+.elementor-widget-icon-list .elementor-icon-list-icon i {color: #16aa4b;}
+.elementor-widget-icon-list .elementor-icon-list-icon svg {fill: #16aa4b;}
+.elementor-widget-icon-list .elementor-icon-list-text {color: #141614;}
+.elementor-widget-icon-list .elementor-icon-list-item {font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-counter .elementor-counter-number-wrapper {color: #16aa4b;font-family: "Lato",Sans-serif;font-weight: bold;}
+.elementor-widget-counter .elementor-counter-title {color: #141614;font-family: "Lato",Sans-serif;font-weight: 400;}
+.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar {background-color: #16aa4b;}
+.elementor-widget-progress .elementor-title {color: #16aa4b;font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-testimonial .elementor-testimonial-content {color: #3a3b37;font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-testimonial .elementor-testimonial-name {color: #16aa4b;font-family: "Lato",Sans-serif;font-weight: bold;}
+.elementor-widget-testimonial .elementor-testimonial-job {color: #141614;font-family: "Lato",Sans-serif;font-weight: 400;}
+.elementor-widget-tabs .elementor-tab-title {color: #16aa4b;font-family: "Lato",Sans-serif;font-weight: bold;}
+.elementor-widget-tabs .elementor-tab-title.elementor-active {color: #0b562b;}
+.elementor-widget-tabs .elementor-tab-content {color: #3a3b37;font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-title {color: #16aa4b;font-family: "Lato",Sans-serif;font-weight: bold;}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-title.elementor-active {color: #0b562b;}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-content {color: #3a3b37;font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-title {color: #16aa4b;font-family: "Lato",Sans-serif;font-weight: bold;}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-title.elementor-active {color: #0b562b;}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-content {color: #3a3b37;font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-alert .elementor-alert-title {font-family: "Lato",Sans-serif;font-weight: bold;}
+.elementor-widget-alert .elementor-alert-description {font-family: "Lato",Sans-serif;font-weight: normal;}
+.elementor-widget-gold-addons-blog .ga-blog-post-tags a {font-family: "Lato",Sans-serif;font-weight: bold;}
